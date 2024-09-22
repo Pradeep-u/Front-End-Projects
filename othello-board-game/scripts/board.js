@@ -8,7 +8,7 @@
 class Board {
 
     /**
-     * Board constructor
+     * Board constructor b
      *
      * @param {number} [width=8] - Width or spread of board
      */
