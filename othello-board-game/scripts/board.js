@@ -41,7 +41,7 @@ class Board {
     }
 
     /**
-     * This method will init the board and place an instance of *Cell* in each cell
+     * This method will init the board and place an instance of *Cell* in each cel l
      *
      */
     initBoard() {
