@@ -42,8 +42,6 @@
     padding: 1rem;
     border: 1px solid #222;
     outline: none;
-    -moz-appearance: none;
-    -webkit-appearance: none;
   }
   
   button {
@@ -51,8 +49,7 @@
     background: #222;
     width: 100px;
     justify-content: center;
-    -moz-appearance: none;
-    -webkit-appearance: none;
+
     color: #f7f7f7;
     padding: 1rem;
     border: 0;
@@ -70,8 +67,6 @@
     padding: 1rem;
     border: 1px solid #222;
     outline: none;
-    -moz-appearance: none;
-    -webkit-appearance: none;
   }
   
   .success {
